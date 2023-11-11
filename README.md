@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshwar-cm&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshwar-cm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshwar-cm" alt="yogeshwar-cm" /></a> </p>
-
 - 🔭 I’m currently the **FullStack lead at Google Developer Student Clubs**
 
 - 🌱 I’m currently learning **NextJS, ThreeJS, ReactNative**
